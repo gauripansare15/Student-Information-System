@@ -1,0 +1,130 @@
+C:\Users\Gauri\OneDrive\Desktop\StudentInformationSystem\src>javac Student.java
+
+C:\Users\Gauri\OneDrive\Desktop\StudentInformationSystem\src>java Student
+Error: Main method not found in class Student, please define the main method as:
+   public static void main(String[] args)
+or a JavaFX application class must extend javafx.application.Application
+
+C:\Users\Gauri\OneDrive\Desktop\StudentInformationSystem\src>javac StudentManager.java
+
+C:\Users\Gauri\OneDrive\Desktop\StudentInformationSystem\src>java StudentManager
+Error: Main method not found in class StudentManager, please define the main method as:
+   public static void main(String[] args)
+or a JavaFX application class must extend javafx.application.Application
+
+C:\Users\Gauri\OneDrive\Desktop\StudentInformationSystem\src>javac ValidationUtils.java
+
+C:\Users\Gauri\OneDrive\Desktop\StudentInformationSystem\src>java ValidationUtils
+Error: Main method not found in class ValidationUtils, please define the main method as:
+   public static void main(String[] args)
+or a JavaFX application class must extend javafx.application.Application
+
+C:\Users\Gauri\OneDrive\Desktop\StudentInformationSystem\src>javac StudentInformationSystem.java
+
+C:\Users\Gauri\OneDrive\Desktop\StudentInformationSystem\src>java StudentInformationSystem
+
+===== STUDENT INFORMATION SYSTEM =====
+1. Add Student
+2. View Students
+3. Search Student
+4. Update Student
+5. Exit
+Enter choice: 1
+Student ID: S101
+Name: Satyam Dubey
+Age: 24
+Grade: 96
+Contact: 123456789
+? Student added successfully!
+
+===== STUDENT INFORMATION SYSTEM =====
+1. Add Student
+2. View Students
+3. Search Student
+4. Update Student
+5. Exit
+Enter choice: 1
+Student ID: S102
+Name: Gauri Pansare
+Age: 22
+Grade: 86.50
+Contact: 635473847
+? Student added successfully!
+
+===== STUDENT INFORMATION SYSTEM =====
+1. Add Student
+2. View Students
+3. Search Student
+4. Update Student
+5. Exit
+Enter choice: 1
+Student ID: S103
+Name: Karishma kapoor
+Age: 22
+Grade: 87
+Contact: 274537382
+? Student added successfully!
+
+===== STUDENT INFORMATION SYSTEM =====
+1. Add Student
+2. View Students
+3. Search Student
+4. Update Student
+5. Exit
+Enter choice: 2
+ID         Name                 Age   Grade  Contact
+------------------------------------------------
+S101       Satyam Dubey         24    96.00  123456789
+S102       Gauri Pansare        22    86.50  635473847
+S103       Karishma kapoor      22    87.00  274537382
+
+===== STUDENT INFORMATION SYSTEM =====
+1. Add Student
+2. View Students
+3. Search Student
+4. Update Student
+5. Exit
+Enter choice: 3
+Enter Student ID or Name: S102
+? Student Found
+ID      : S102
+Name    : Gauri Pansare
+Age     : 22
+Grade   : 86.5
+Contact : 635473847
+
+===== STUDENT INFORMATION SYSTEM =====
+1. Add Student
+2. View Students
+3. Search Student
+4. Update Student
+5. Exit
+Enter choice: 4
+Enter Student ID to update: S103
+New Name: Karishma Bargaje
+New Age: 22
+New Grade: 86
+New Contact: 7636273642643
+? Student updated successfully!
+
+===== STUDENT INFORMATION SYSTEM =====
+1. Add Student
+2. View Students
+3. Search Student
+4. Update Student
+5. Exit
+Enter choice: 5
+? Application closed.
+
+C:\Users\Gauri\OneDrive\Desktop\StudentInformationSystem\src>
+
+
+
+
+
+
+
+
+
+
+
